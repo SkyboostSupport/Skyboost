@@ -6,7 +6,6 @@ SkyBoost is a unique mod designed to enhance your Hypixel Skyblock experience by
 
 ## Key Features
 
-### Coin-Making Assistance
 Say goodbye to the grind and wave hello to a fortune! SkyBoost offers a range of features that are meticulously designed to maximize your coin-making potential. We understand that your time is precious, and we're here to help you make the most of it.
 
 1. Auction House Assistant- Skyboost provides extensive support in finding profitable deals at the Auction House. The mod analyzes market trends, tracks item prices, and suggests ideal buy and sell prices for maximizing profit margins. This feature allows you to make informed decisions, ensuring you never settle for subpar trades.
